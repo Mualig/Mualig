@@ -1,4 +1,4 @@
-### Hi there 👋
+![Header](./mualig-github-header-image.png)
 
 <!--
 **Mualig/Mualig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
